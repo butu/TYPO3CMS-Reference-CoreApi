@@ -19,8 +19,8 @@ final class MyController extends ActionController
                 [
                     'myRecord' => 21,
                 ],
-                'MyController',
-                'myextension',
+                'My', // when the name of your class is MyController
+                'myextension', // no underlines
                 'myplugin',
             );
 
