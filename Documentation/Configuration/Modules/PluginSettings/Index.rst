@@ -1,4 +1,4 @@
-:navigation-title: Plugin Settingss
+:navigation-title: Plugin Settings
 
 ..  include:: /Includes.rst.txt
 ..  _plugin-settings:
